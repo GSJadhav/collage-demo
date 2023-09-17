@@ -1,4 +1,4 @@
 # collage-demo
-This is my First Git Repository.
+This is my first Git Repository.
 <br>
 Author -  Ganesh (from India)
